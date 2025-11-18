@@ -1,4 +1,4 @@
-// src/index.js
+src/index.js
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App.jsx'; // आपका मुख्य कॉम्पोनेंट
